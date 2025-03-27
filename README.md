@@ -7,6 +7,6 @@
 
 2024 SemEval Emotion Discovery and Reasoning its Flip in Conversation 冠军🏆  [评测地址](https://semeval.github.io/SemEval2024/tasks) [评测论文](https://aclanthology.org/2024.semeval-1.48/)
 
-2024 讯飞开发者大赛 机器翻译质量评估挑战赛 冠军🏆 评测地址(https://challenge.xfyun.cn/topic/info?type=translation-quality-2024)
+2024 讯飞开发者大赛 机器翻译质量评估挑战赛 冠军🏆 [评测地址](https://challenge.xfyun.cn/topic/info?type=translation-quality-2024)
 
 
