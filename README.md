@@ -9,4 +9,12 @@
 
 2024 讯飞开发者大赛 机器翻译质量评估挑战赛 冠军🏆 [评测地址](https://challenge.xfyun.cn/topic/info?type=translation-quality-2024)
 
+2024 CHIP2023-医疗论文PICOS关键信息抽取任务 季军🥉 [评测地址](https://tianchi.aliyun.com/competition/entrance/532156/introduction?spm=a2c22.12281925.0.0.4ec77137MytX2J) [评测论文](https://link.springer.com/chapter/10.1007/978-981-97-1717-0_17)
+
+2024 讯飞开发者大赛 人岗匹配挑战赛 季军🥉 [评测地址](https://challenge.xfyun.cn/topic/info?type=match-challenge-s3)
+
+2023 讯飞开发者大赛 汽车领域文本规则泛化性增强挑战赛 季军🥉[评测地址](https://challenge.xfyun.cn/topic/info?type=increased-generalization)
+
+2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战赛 三等奖🥉 [评测地址](https://tianchi.aliyun.com/competition/entrance/532010)
+
 
