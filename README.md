@@ -3,7 +3,7 @@
 ### My competition
 2025 NLPCC Evaluation of Essay On-Topic Graded Comments 亚军🥈 [评测地址](https://github.com/cubenlp/EOTGC-2025NLPCC)
 
-2025 NLPCC Comprehensive Argument Analysis for Chinese Argumentative Essay 亚军🥈 评测地址[https://github.com/cubenlp/NLPCC-2025-Shared-Task3]
+2025 NLPCC Comprehensive Argument Analysis for Chinese Argumentative Essay 亚军🥈 [评测地址](https://github.com/cubenlp/NLPCC-2025-Shared-Task3)
 
 2024 CCL 文本纠错 冠军🏆 [评测地址](https://github.com/cubenlp/2024CCL_CEFE) [评测论文](https://aclanthology.org/2024.ccl-3.31/)
 
