@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 ### My competition
+2025 通义灵码MCP插件开发大赛优秀作品 “智能试卷生成助手 MCP” [评测地址](https://tianchi.aliyun.com/competition/entrance/532442/rankingList) [开源地址](https://tbox.alipay.com/inc/share/202512APHfS007958051?platform=WebService)
+
 2025 NLPCC Evaluation of Essay On-Topic Graded Comments 亚军🥈 [评测地址](https://github.com/cubenlp/EOTGC-2025NLPCC)
 
 2025 NLPCC Comprehensive Argument Analysis for Chinese Argumentative Essay 亚军🥈 [评测地址](https://github.com/cubenlp/NLPCC-2025-Shared-Task3)
