@@ -1,6 +1,8 @@
 
 ## Hi there 👋
-### My competition
+### My Work
+2026 ACL Main 🎉，中文文本纠错新Sota🏆 [项目地址](https://github.com/TW-NLP/ChineseErrorCorrector)
+
 2026 阿里天池 预训练模型泛化能力挑战（学习赛） 冠军🏆 [评测地址](https://tianchi.aliyun.com/competition/entrance/532330/forum)
 
 2025 通义灵码MCP插件开发大赛优秀作品 “智能试卷生成助手 MCP” [评测地址](https://tianchi.aliyun.com/competition/entrance/532442/rankingList) [开源地址](https://tbox.alipay.com/inc/share/202512APHfS007958051?platform=WebService)
