@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 ### My Work
+2026 EMNLP +2 Main + findings 🎉, 分别涉及 MOPD 和 GRPO 两项 Post-Training Technology.
+
 2026 ACL Main 🎉，中文文本纠错新Sota🏆 [项目地址](https://github.com/TW-NLP/ChineseErrorCorrector)
 
 2026 阿里天池 预训练模型泛化能力挑战（学习赛） 冠军🏆 [评测地址](https://tianchi.aliyun.com/competition/entrance/532330/forum)
