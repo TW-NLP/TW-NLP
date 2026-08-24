@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 ### My Work
-2026 EMNLP +2 Main + findings 🎉, 分别涉及 MOPD 和 GRPO 两项 Post-Training Technology.
+2026 EMNLP +2 , Main + findings 🎉, 研究点是： MOPD 和 GRPO 两项 Post-Training Technology.
 
 2026 ACL Main 🎉，中文文本纠错新Sota🏆 [项目地址](https://github.com/TW-NLP/ChineseErrorCorrector)
 
